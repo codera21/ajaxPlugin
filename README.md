@@ -19,3 +19,8 @@ $('table').ajaxGrid({
     });
 
 ```
+# refresh grid
+```
+ $('table').trigger("refreshGrid", {filter: document.searchform.filter.value});
+
+```
