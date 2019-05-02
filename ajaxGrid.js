@@ -1,4 +1,4 @@
-//Plugin made by Anup Nepal
+//Plugin made by Atul Nepal
 (function($) {
   $.fn.ajaxGrid = function(options) {
 
